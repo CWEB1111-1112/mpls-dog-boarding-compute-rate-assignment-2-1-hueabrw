@@ -1,0 +1,11 @@
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\bin\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.exe
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\bin\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.deps.json
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\bin\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.runtimeconfig.json
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\bin\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.runtimeconfig.dev.json
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\bin\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.dll
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\bin\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.pdb
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\obj\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.csprojAssemblyReference.cache
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\obj\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.AssemblyInfoInputs.cache
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\obj\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.AssemblyInfo.cs
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\obj\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.dll
+C:\code\Prog_Fund\AH_assignment_two\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw\obj\Debug\netcoreapp3.1\mpls-dog-boarding-compute-rate-assignment-2-1-hueabrw.pdb
